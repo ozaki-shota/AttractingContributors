@@ -26,3 +26,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 2. メタルギア
 3. Final fantasy
 4. chocotto land
+5. Final fantasy　零式
