@@ -25,3 +25,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Dragon Quest
 2. メタルギア
 3. Final fantasy
+4. chocotto land
