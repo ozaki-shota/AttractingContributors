@@ -16,5 +16,3 @@ ex) Netflix
 6. u-next
 7. Spotify
 8. Youtube music premium?
-9. 
-10. 
