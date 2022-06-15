@@ -29,3 +29,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Final fantasy　零式  
 6. 幻想水滸伝 2   
 7. Final Fantasy 7
+8. Pokémon
+
