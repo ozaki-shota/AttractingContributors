@@ -22,5 +22,15 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Hobby
 
-1.Dragon Quest
-2.ROLL of the DEAD
+1. Dragon Quest
+2. メタルギア
+3. Final fantasy
+4. chocotto land
+5. Final fantasy　零式  
+6. 幻想水滸伝 2   
+7. Final Fantasy 7
+8. Pokémon
+9. Pokemon Mystery Dungeon: Explorers of Time
+10. MARIO ODYSSEY
+11. ROLL of the DEAD
+
